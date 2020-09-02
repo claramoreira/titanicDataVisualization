@@ -1,4 +1,4 @@
-# titanicDataVisualization
+# Titanic: Data Visualization
 
 Jupyter Notebook developed to better visualize the famous "Titanic: Machine Learning from Disaster" dataset.
 Check the project for more information.
